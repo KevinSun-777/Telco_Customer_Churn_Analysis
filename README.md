@@ -111,7 +111,7 @@ Customer lifecycle groups:
 
 ## Executive Recommendations Dashboard
 
-![Executive Recommendations Dashboard](Recommendations.png)
+![Executive Recommendations Dashboard](Recommendation.png)
 
 ---
 
